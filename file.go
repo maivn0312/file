@@ -1,4 +1,4 @@
-package ifile
+package file
 
 import (
 	"strings"
